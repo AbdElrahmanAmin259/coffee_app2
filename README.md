@@ -6,7 +6,7 @@ A polished Flutter UI showcase for a drinks ordering app, featuring a scroll-dri
 
 ## 🎬 Demo
 
-<video src="https://github.com/AbdElrahmanAmin259/coffee_app2/raw/main/assets/screenshot.mp4" controls width="320"></video>
+### ▶️ [Watch the demo video](https://github.com/AbdElrahmanAmin259/coffee_app2/blob/main/assets/screenshot.mp4)
 
 ---
 
