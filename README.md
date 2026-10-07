@@ -4,7 +4,7 @@ A polished Flutter coffee ordering UI showcase focused on smooth animations, int
 
 ## 🎬 Demo
 
-[▶️ Watch the demo video](https://github.com/AbdElrahmanAmin259/coffee_app2/blob/main/assets/screenshot.mp4)
+<video src="./assets/screenshot.mp4" controls width="700"></video>
 
 ## ✨ Features
 
@@ -51,8 +51,6 @@ assets/
 
 ### Prerequisites
 
-Make sure you have the following installed:
-
 * [Flutter SDK](https://docs.flutter.dev/get-started/install)
 * Dart SDK
 * Android Studio or VS Code
@@ -86,15 +84,15 @@ flutter run
 
 ## 🎯 What I Practiced
 
-This project was built to practice and demonstrate several Flutter concepts:
+This project was built to practice and demonstrate:
 
 * Building reusable Flutter widgets.
 * Managing local UI state with `StatefulWidget` and `setState`.
 * Working with `PageController` and `PageView`.
 * Creating scroll-driven animations.
-* Using `AnimatedBuilder` for efficient animated UI updates.
+* Using `AnimatedBuilder` for animated UI updates.
 * Applying `Transform` for scale and position effects.
-* Structuring a Flutter project into models and reusable components.
+* Structuring a Flutter project using models and reusable components.
 * Creating interactive UI components from scratch.
 
 ## 👤 Author
