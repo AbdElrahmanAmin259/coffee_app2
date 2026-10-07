@@ -4,7 +4,7 @@ A polished Flutter coffee ordering UI showcase focused on smooth animations, int
 
 ## 🎬 Demo
 
-<video src="./assets/screenshot.mp4" controls width="700"></video>
+https://github.com/user-attachments/assets/b4bae365-aa5b-4e3d-a8f2-30bedf40ea64
 
 ## ✨ Features
 
